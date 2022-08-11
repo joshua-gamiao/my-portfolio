@@ -1,0 +1,64 @@
+/* Styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+h5 {
+	font-weight: bold;
+}
+
+iframe {
+	height: 100%;
+	width: 100%;
+}
+
+footer {
+	background-color: #F6FBF4;
+}
+
+/* Classes target */
+.nav-link {
+	font-size: 14px;
+	font-weight: bold;
+	color: #0e1d40 !important;
+}
+
+.bg-dark {
+	background: transparent !important;
+	transition: 0.5s ease;
+}
+
+.bg-dark.scrolled{
+	background: #F6FBF4 !important;
+}
+
+.card-text {
+	text-align: justify;
+}
+
+/* ID target */
+#aboutme_section {
+    background-color: #f9f1ee;
+}
+
+#tools_section{
+	background-color: #e9eef2;
+}
+
+#contact_section {
+	background-color: #0f1d44;
+}
+
+#profile_logo {
+	width: 250px;
+}
+
+
+
+
+
+
