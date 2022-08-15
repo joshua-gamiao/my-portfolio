@@ -36,6 +36,10 @@ footer {
 	background: #F6FBF4 !important;
 }
 
+.nav-link.scrolled {
+	color: white !important;
+}
+
 .card-text {
 	text-align: justify;
 }
